@@ -10,6 +10,9 @@ namespace Task3
     {
         static void Main(string[] args)
         {
+            Task3.ResultTests("C:\\Users\\petro\\source\\repos\\TestPerformance\\Task3\\values.json",
+    "C:\\Users\\petro\\source\\repos\\TestPerformance\\Task3\\tests.json",
+    "C:\\Users\\petro\\source\\repos\\TestPerformance\\Task3\\report.json");
         }
     }
 }
